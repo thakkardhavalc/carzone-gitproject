@@ -1,8 +1,6 @@
 
 =
 pages/apps.py,2\7\27abfab18374509faca7b2086d0c7ba333dda2a8
-?
-carzone/urls.py,2\0\20e3273da45f624b5cc9b59f1043d0bee1247bad
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -28,5 +26,11 @@ C
 templates/base.html,d\a\da7c237b85a69c00a9ab8c189bf63e22070fcac3
 L
 templates/pages/contact.html,6\f\6f15e39677e6a4501b2399b00d425525d9820eb0
+>
+pages/admin.py,a\a\aad808ac5e60d45c69afac843a33489921ce4226
+?
+pages/models.py,e\2\e28f85511a6c11b9cfada4ec035b60fe29a96258
 C
 carzone/settings.py,5\0\50e86fe119ff0293aae3dd611c3ff86886f0e039
+?
+carzone/urls.py,2\0\20e3273da45f624b5cc9b59f1043d0bee1247bad
